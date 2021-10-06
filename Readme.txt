@@ -17,4 +17,4 @@
 		3. index.exe - executible file to run the program.
 		4. Readme.txt - Details about the assignment
 		
-	Github repository Link - 
+	Github repository Link - https://github.com/HustleAura/Electrical_Machines_Assignment
